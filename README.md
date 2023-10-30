@@ -16,7 +16,7 @@ Hi, I'm Brahim!
 ## Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brahim-korsan-el-ghabi-79299023a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/brahim-korsan/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	</p>
 
 ### 👨‍💻 Programming Languages
