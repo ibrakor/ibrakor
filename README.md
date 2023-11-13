@@ -22,7 +22,7 @@ Hi, I'm Brahim!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/ibrakor"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
+    <a href="https://github.com/ibrakor/SuperHeroesAndroid#readme"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
     <a href="https://github.com/ibrakor"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
     <a href="https://github.com/ibrakor"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 
