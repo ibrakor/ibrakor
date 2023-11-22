@@ -30,7 +30,7 @@ Hi, I'm Brahim!
 
 <p>
     <a href="https://github.com/ibrakor"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
-<a href="https://github.com/ibrakor"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href="https://github.com/ibrakor/SuperHeroesAndroid#ejercicio-superheroes"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
