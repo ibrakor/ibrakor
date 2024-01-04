@@ -36,7 +36,8 @@ Hi, I'm Brahim!
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/ibrakor"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+ <a href="https://github.com/ibrakor"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow"></a>
+    <a href="https://github.com/ibrakor"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
@@ -44,5 +45,9 @@ Hi, I'm Brahim!
 <p>
     <a href="https://github.com/ibrakor"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
     <a href="https://github.com/ibrakor"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-    <a href="https://github.com/ibrakor"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>   
+    <a href="https://github.com/ibrakor"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+
+
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrakor&theme=dark)](https://git.io/streak-stats)
