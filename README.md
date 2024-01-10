@@ -50,4 +50,4 @@ Hi, I'm Brahim!
 
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrakor&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibrakor&theme=dark&hide_border=true&card_width=800)](https://git.io/streak-stats)
