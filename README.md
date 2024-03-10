@@ -24,6 +24,7 @@ Hi, I'm Brahim!
 <p>
     <a href="https://github.com/ibrakor/SuperHeroesAndroid#ejercicio-superheroes"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
     <a href="https://github.com/ibrakor"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+	<a href="https://github.com/ibrakor"><img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
     <a href="https://github.com/ibrakor"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
 
 ### 🧰 Frameworks and Libraries
@@ -31,6 +32,8 @@ Hi, I'm Brahim!
 <p>
     <a href="https://github.com/ibrakor"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
 <a href="https://github.com/ibrakor/SuperHeroesAndroid#ejercicio-superheroes"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+	<a href="https://github.com/ibrakor"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
+
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -46,6 +49,7 @@ Hi, I'm Brahim!
     <a href="https://github.com/ibrakor"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
     <a href="https://github.com/ibrakor"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="https://github.com/ibrakor"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/ibrakor"><img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 
 
 </p>
