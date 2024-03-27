@@ -30,9 +30,9 @@ Hi, I'm Brahim!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/ibrakor"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
 <a href="https://github.com/ibrakor/SuperHeroesAndroid#ejercicio-superheroes"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 	<a href="https://github.com/ibrakor"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
+    <a href="https://github.com/ibrakor"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
 
 </p>
 
@@ -41,6 +41,8 @@ Hi, I'm Brahim!
 <p>
  <a href="https://github.com/ibrakor"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow"></a>
     <a href="https://github.com/ibrakor"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+	    <a href="https://github.com/ibrakor"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+
 </p>
 
 ### 💻 Software and Tools
@@ -50,6 +52,8 @@ Hi, I'm Brahim!
     <a href="https://github.com/ibrakor"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="https://github.com/ibrakor"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://github.com/ibrakor"><img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+    <a href="https://github.com/ibrakor"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
+	    <a href="https://github.com/ibrakor"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
 
 
 </p>
