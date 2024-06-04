@@ -8,7 +8,7 @@ Hi, I'm Brahim!
 <pre>
 💻 I am a Junior Android Developer
 🌟 Main languages: Kotlin
-🤔 I’m currently open for: a <b>Job</b> or an <b>Intern</b>.
+🤔 I’m currently open for: a <b>Job.
 </pre>
 
 <br/>
