@@ -6,9 +6,8 @@ Hi, I'm Brahim!
 </h1>
 
 <pre>
-💻 I am a Junior Android Developer
+💻 I am a Android Developer
 🌟 Main languages: Kotlin
-🤔 I’m currently open for: a <b>Job.
 </pre>
 
 <br/>
